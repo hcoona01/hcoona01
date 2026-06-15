@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220" role="img" aria-label="Ashmit Kumar — Aspiring Software Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" viewBox="0 0 1400 220" role="img" aria-label="Om Kanase — AI/ML &amp; Full-Stack Developer">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff7ec3">
@@ -19,7 +19,7 @@
   <rect x="0" y="0" width="1400" height="220" rx="28" ry="28" fill="url(#g)"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
-    <text x="700" y="110" font-size="36" font-weight="700" fill="#0f172a">Ashmit Kumar</text>
-    <text x="700" y="145" font-size="18" font-weight="400" fill="#111827" fill-opacity="0.85">Aspiring Software Developer</text>
+    <text x="700" y="110" font-size="36" font-weight="700" fill="#0f172a">Om Kanase</text>
+    <text x="700" y="145" font-size="18" font-weight="400" fill="#111827" fill-opacity="0.85">AI/ML &amp; Full-Stack Developer</text>
   </g>
 </svg>
