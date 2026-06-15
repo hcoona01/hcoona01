@@ -1,4 +1,4 @@
-![Hero Banner](./hero.svg)
+![Hero Banner](./hero.svg?v=2)
 
 [![Typing Title](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=22&pause=900&color=7C93F9&center=true&vCenter=true&width=800&lines=AI+%26+ML+Architect+%7C+Full-Stack+Systems;Intelligent+Utilities+%7C+Scalable+Architectures;Engineering+with+Precision)](https://github.com/hcoona01)
 
