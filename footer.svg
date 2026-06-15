@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="120" viewBox="0 0 1400 120" role="img" aria-label="Built with love on macOS-inspired design">
+  <defs>
+    <linearGradient id="gf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7ec3">
+        <animate attributeName="stop-color" values="#ff7ec3; #b38cf7; #6b9bf3; #ff7ec3" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#b38cf7">
+        <animate attributeName="stop-color" values="#b38cf7; #6b9bf3; #ff7ec3; #b38cf7" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#6b9bf3">
+        <animate attributeName="stop-color" values="#6b9bf3; #ff7ec3; #b38cf7; #6b9bf3" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1400" height="120" rx="28" ry="28" fill="url(#gf)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="700" y="70" font-size="18" font-weight="500" fill="#ffffff" fill-opacity="0.95">Built with ♥ on macOS-inspired design</text>
+  </g>
+</svg>
